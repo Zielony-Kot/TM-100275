@@ -1,0 +1,19 @@
+# Logi
+*.log
+npm-debug.log*
+ 
+#Środowiska wirtualne
+venv/
+.env
+node_modules/
+ 
+#Systemowe
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+*~
