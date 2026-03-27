@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  appium:
+    image: appium/appium
+    container_name: artefakt03-appium-1
+    ports:
+      - "4723:4723"
+    restart: always
