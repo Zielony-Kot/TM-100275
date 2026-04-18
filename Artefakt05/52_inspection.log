@@ -1,0 +1,10 @@
+=== ARTEFAKT 5.2: RAPORT ANALIZY SYSTEMOWEJ ===
+Pakiet g³ówny: io.appium.android.apis
+Liczba Activity: 332
+
+Kluczowe Uprawnienia (Co aplikacja chce robiæ?):
+- android.permission.READ_CONTACTS
+- android.permission.WRITE_CONTACTS
+- android.permission.VIBRATE
+- android.permission.ACCESS_COARSE_LOCATION
+- android.permission.INTERNET
