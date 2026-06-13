@@ -1,0 +1,1 @@
+[{"values":["SUCCESS"],"name":"Pipeline.Status"},{"values":["2026-06-13 14:46:57"],"name":"Execution.Time"},{"values":["Automated Master Script"],"name":"Execution.Type"},{"values":["Docker (Appium Server)"],"name":"Infrastructure"},{"values":["win32"],"name":"Platform"},{"values":["Python Subprocess"],"name":"Build.Engine"}]
